@@ -10,4 +10,5 @@ Team Leader : Shrihari S
 
 Team Members : Praveen S, Sourish Vijay R. Elbrine D Paul
 
-Project Demo : https://drive.google.com/file/d/11K-6vwQReXRswR42KXcgMvehWrGJT4_1/view?usp=share_link
+Project Demo : https://youtu.be/UBVfWIDxKJs
+
